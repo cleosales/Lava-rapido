@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --color-asfalto: #1f2933;
+  --color-espuma: #eef6f8;
+  --color-agua: #0e7c9b;
+  --color-agua-escuro: #0a5d75;
+  --color-esponja: #f2c200;
+  --color-ferrugem: #c8372d;
+}
